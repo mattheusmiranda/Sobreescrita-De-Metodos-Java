@@ -11,7 +11,6 @@ public class ExemploHerancaJava {
 		Pessoa pe1 = new Pessoa("Maria", "111.222.444-77");
 		pe1.imprime();  
 		
-		
-		
+			
 	}
 }
